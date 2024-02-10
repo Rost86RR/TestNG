@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="auto-service-annotations-1.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/auto-service-annotations-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/byte-buddy-1.14.11.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/checker-qual-3.41.0.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/error_prone_annotations-2.23.0.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/failsafe-3.3.2.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/failureaccess-1.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/guava-33.0.0-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/j2objc-annotations-2.8.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-api-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-api-events-1.34.1-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-context-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-exporter-logging-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-extension-incubator-1.34.1-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-common-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-extension-autoconfigure-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-logs-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-metrics-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-sdk-trace-1.34.1.jar!/" />
+      <root url="jar://$USER_HOME$/Drivers/selenium/lib/opentelemetry-semconv-1.23.1-alpha.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
