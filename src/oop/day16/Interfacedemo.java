@@ -46,5 +46,6 @@ public class Interfacedemo implements Shape
         sh.square(); // default method
         Shape.rectangle(); // static method can directly access from interface
 
+        System.out.println(Shape.length * Shape.width); // accessing static variables directly
     }
 }
