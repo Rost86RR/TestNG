@@ -36,10 +36,12 @@ public class ExceptionsDemo {
         System.out.println(num3);
          */
 
+        /*
         //Example4
         String s4 = "welcome";
         //String s4 = ""; - 0
         //String s4 = null; - NullPointerException
         System.out.println(s4.length());
+         */
     }
 }
