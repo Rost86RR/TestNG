@@ -15,7 +15,6 @@ public class CheckedExeptions {
         {
 
         }
-
         System.out.println("program finished...");
         System.out.println("program exited...");
     }
