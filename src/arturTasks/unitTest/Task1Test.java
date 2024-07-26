@@ -11,8 +11,7 @@ public class Task1Test {
     public void testIndetificationValueLess()
     {
         Scanner mockScanner = new Scanner("4");
-        Task1 task1 = new Task1();
-        String result = task1.indetificationValue(mockScanner);
+        String result = Task1.indetificationValue(mockScanner);
         Assert.assertEquals(result, "This value is less than 10");
     }
 
@@ -20,8 +19,7 @@ public class Task1Test {
     public void testIndetificationValueGreater()
     {
         Scanner mockScanner = new Scanner("14");
-        Task1 task1 = new Task1();
-        String result = task1.indetificationValue(mockScanner);
+        String result = Task1.indetificationValue(mockScanner);
         Assert.assertEquals(result, "This value is greater than 10");
     }
 
@@ -29,8 +27,7 @@ public class Task1Test {
     public void testIndetificationValueEqual()
     {
         Scanner mockScanner = new Scanner("10");
-        Task1 task1 = new Task1();
-        String result = task1.indetificationValue(mockScanner);
+        String result = Task1.indetificationValue(mockScanner);
         Assert.assertEquals(result, "This value is 10");
     }
 

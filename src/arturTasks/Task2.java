@@ -2,28 +2,27 @@ package arturTasks;
 
 import java.util.Scanner;
 
-public class Task1 {
 
-    public static String indetificationValue(Scanner scanner){
+public class Task2 {
+
+    public static int defineAndSquareOrDoubleNumber(Scanner scanner) {
+
         System.out.println("Please enter an integer: ");
         int a = scanner.nextInt();
-        if (a > 10)
+        if(a > 0 && a < 10 || a > 100 && a < 1000)
         {
-           return "This value is greater than 10";
-        } else if (a < 10)
-        {
-            return "This value is less than 10";
+            return a * a;
         }
         else
         {
-            return "This value is 10";
+            return a * 2;
         }
     }
 
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
-        String result = Task1.indetificationValue(scanner);
+        int result = Task2.defineAndSquareOrDoubleNumber(scanner);
         System.out.println(result);
     }
 }
