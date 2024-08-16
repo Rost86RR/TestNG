@@ -10,20 +10,20 @@ public class Task27Test {
     public void positive(){
         Scanner mockScanner = new Scanner("8");
         int result = Task27.opposite(mockScanner);
-        Assert.assertEquals(result, "-8");
+        Assert.assertEquals(result, -8);
     }
 
     @Test
     public void negative(){
         Scanner mockScanner = new Scanner("-9");
         int result = Task27.opposite(mockScanner);
-        Assert.assertEquals(result, "9");
+        Assert.assertEquals(result, 9);
     }
 
     @Test
     public void zero(){
         Scanner mockScaner = new Scanner("0");
         int result = Task27.opposite(mockScaner);
-        Assert.assertEquals(result, "0");
+        Assert.assertEquals(result, 0);
     }
 }
